@@ -14,7 +14,8 @@
     }
 
     public class AtualizarFornecedorDto
-    { 
+    {
+        public int Id { get; set; }
         public string NomeFantasia { get; set; }       
     }
 }

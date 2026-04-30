@@ -9,7 +9,7 @@ namespace ControleEstoque.API.Services
         Task<FornecedorDto> CriarAsync(CriarFornecedorDto dto);
         Task AtualizarAsync(AtualizarFornecedorDto dto);
         Task RemoverAsync(int id);
-   
+        Task ReceberConta(int id);
     }
 }
 

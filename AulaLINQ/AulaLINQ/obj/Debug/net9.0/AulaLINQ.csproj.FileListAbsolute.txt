@@ -1,0 +1,14 @@
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\bin\Debug\net9.0\AulaLINQ.exe
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\bin\Debug\net9.0\AulaLINQ.deps.json
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\bin\Debug\net9.0\AulaLINQ.runtimeconfig.json
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\bin\Debug\net9.0\AulaLINQ.dll
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\bin\Debug\net9.0\AulaLINQ.pdb
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\obj\Debug\net9.0\AulaLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\obj\Debug\net9.0\AulaLINQ.AssemblyInfoInputs.cache
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\obj\Debug\net9.0\AulaLINQ.AssemblyInfo.cs
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\obj\Debug\net9.0\AulaLINQ.csproj.CoreCompileInputs.cache
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\obj\Debug\net9.0\AulaLINQ.dll
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\obj\Debug\net9.0\refint\AulaLINQ.dll
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\obj\Debug\net9.0\AulaLINQ.pdb
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\obj\Debug\net9.0\AulaLINQ.genruntimeconfig.cache
+C:\Users\david.csjesus\Desktop\Aula01\AulaLINQ\AulaLINQ\obj\Debug\net9.0\ref\AulaLINQ.dll
